@@ -6,6 +6,9 @@
 5. Working to support WebSocket
 
 # How to use
-Add cs file to your project<br/>
-start server as below:
+1. Create folder 'root' (web root)
+2. Create folder 'data' and add default.dat
+add index file name include extension for each line
+3. Add cs file to your project
+4. start server as below:
 new WebServer(int port);
