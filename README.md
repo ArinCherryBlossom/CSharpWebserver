@@ -7,8 +7,8 @@
 
 # How to use
 1. Create folder 'root' (web root)
-2. Create folder 'data' and add default.dat
-add index file name include extension for each line
+2. Create folder 'data' and add default.dat:<br/>
+Add index file name include extension for each line
 3. Add cs file to your project
-4. start server as below:
+4. start server as below:<br/>
 new WebServer(int port);
